@@ -1,0 +1,5 @@
+[0506/152719:ERROR:texture_manager.cc(1995)] [GroupMarkerNotSet(crbug.com/242999)!:C8BA450900000000]GL ERROR :GL_INVALID_ENUM : glTexImage2D: <- error from previous GL command
+[0506/152758:ERROR:texture_manager.cc(1995)] [GroupMarkerNotSet(crbug.com/242999)!:A81ED30A00000000]GL ERROR :GL_INVALID_ENUM : glTexImage2D: <- error from previous GL command
+[0506/152810:ERROR:texture_manager.cc(1995)] [GroupMarkerNotSet(crbug.com/242999)!:28A9C90F00000000]GL ERROR :GL_INVALID_ENUM : glTexImage2D: <- error from previous GL command
+[0506/152855:ERROR:texture_manager.cc(1995)] [GroupMarkerNotSet(crbug.com/242999)!:18013D0900000000]GL ERROR :GL_INVALID_ENUM : glTexImage2D: <- error from previous GL command
+[0506/152859:ERROR:texture_manager.cc(1995)] [GroupMarkerNotSet(crbug.com/242999)!:A882970F00000000]GL ERROR :GL_INVALID_ENUM : glTexImage2D: <- error from previous GL command
